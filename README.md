@@ -1,9 +1,13 @@
 Student Name: SMIT PATEL
+
 Enrollment Number: 12402080601131
+
 Course: Java Programming
+
 Semester: 4
 
 Assignment Structure
+
 -Assignment 1
 Array and String Operations using Classes and Objects
 Matrix Class with Constructors, Transpose and Multiplication
